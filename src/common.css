@@ -193,7 +193,7 @@ footer {
   flex-direction: column;
   border-style: solid;
   padding: 3vw;
-  box-shadow: 8px 10px rgb(97, 96, 96);
+  box-shadow: 8px 10px rgb(98, 98, 98);
   
 }
 .blog-content:hover{
@@ -221,7 +221,7 @@ footer {
   display: block;
   text-align: center;
   padding:10px 0px;
-  background-color: rgb(97, 96, 96);
+  background-color: rgb(98, 98, 98);
   color: #fff;
   font-size: 1rem;
   border-radius: 5px;
