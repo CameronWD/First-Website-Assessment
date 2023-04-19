@@ -74,7 +74,7 @@ header nav a {
 #resumelink img {
   width: 10vw;
   float: right;
-  margin-top: 3vh;
+  margin-top: 3vw;
   max-width: 50px;
 }
 
@@ -166,7 +166,6 @@ footer {
     text-align: center;
     margin-top: 1rem;
 }
-
 
 .container {
   width: 90%;
@@ -290,19 +289,48 @@ header nav{
 header nav{
   width: 30%;
 }
+#hero h1 {
+  padding: 0.5rem;
+  font-weight: 800;
+  font-size: 7vw;
+}
 }
 
 @media only screen and (min-width: 1300px){
 
   #hero h1 {
-    display: flex;
-    justify-content: flex-start;
-    font-size: 10vw;
+    font-size: 8vw;
   }
   #resumelink img {
     margin-left: 3rem;
     margin-top: 7vw;
     max-width: 50px;
 }
+.mainparagraphs {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+#hero h2 {
+  font-size: 34px;
+  padding: 0.5rem;
+}
+}
 
+@media only screen and (min-width: 2000px){
+  .aboutmeimage {
+    width: 500px;
+  }
+
+  #hero h1 {
+    font-size: 5vw;
+  }
+
+  #homepagepicture {
+    width: 600px;
+  }
+  #hero h2 {
+    font-size: 2vw;
+}
 }
