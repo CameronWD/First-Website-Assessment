@@ -26,9 +26,8 @@ header {
 }
 
 #logo {
-    width:25%;
     margin-bottom: 1rem;
-    height: 50%;
+    height: 70%;
 }
 
 header nav {
@@ -279,17 +278,17 @@ header {
 header nav{
   width: 40%;
 }
+.mainparagraphs {
+  text-indent: 5%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
 }
 
 /* *** DESKTOP STYLES *** */
 @media only screen and (min-width: 1000px){
 header nav{
   width: 30%;
-}
-.mainparagraphs {
-  text-indent: 5%;
-  margin-left: 20%;
-  margin-right: 20%;
 }
 }
 
@@ -300,10 +299,10 @@ header nav{
     justify-content: flex-start;
     font-size: 10vw;
   }
-
   #resumelink img {
     margin-left: 3rem;
-    margin-top: 8vw;
+    margin-top: 7vw;
     max-width: 50px;
 }
+
 }
