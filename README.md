@@ -8,8 +8,10 @@
 
 The purpose of this portfolio:
 
-* Allow perspective employers to gauage who I am and why I may be a good fit for their company
-* Showcase my skills and professioanl knowledge
+* Allow prospective employers to gauage who I am and why I may be a good fit for their company
+* Showcase my skills and professioanl knowledge. Showcasing my talent, abilities and coding experience.
+* Further develop my skills in working on a website from the ground up
+* Show a prospective employee my positive work ethic.
 
 ## Functionality / Features:
 
@@ -36,6 +38,18 @@ The site utilizes the following features:
 * Sites colour pallete uses neutral colours, domianted by gray, black and white with highlights of purple. This is in an effort to increase readability and allow the images to really stand out on the page. 
 * Used semantics within the html where possible in an effort to increase accesibility. 
 
+## Target Audience:
+
+* The hope for this website is to be the building block to create engagment with employers in the hopes of getting a junior developer role. Individuals looking at this site are likely to have expertice within the development, web dev and coding field. Having knowledge of software development, development stacks and IT. Ideally, this website is an example of my skillset and what I would bring to the table. Those looking at the website already have technical knowledge and would hopefully gain appreciation due to the effort and outcome of this portfolio. 
+
+## Tech stack:
+
+* Wireframes - pen, paper, scanner
+* Logo - Canva
+* Website - CSS & HTML
+* Deployment: Vercel
+* Slidedeck: Google Slides
+* Screenshots: Mozilla Firefox
 
 ## Sitemap: 
 
@@ -80,16 +94,3 @@ The site utilizes the following features:
 ![Desktop Blog Link Example](./docs/desktop-blogexample.png)
 
 ---
-
-## Target Audience:
-
-* The hope for this website is to be the building block to create engagment with employers in the hopes of getting a junior developer role. Individuals looking at this site are likely to have expertice within the development, web dev and coding field. Ideally, this website is an example of my skillset and what I would bring to the table. Those looking at the website already have technical knowledge and would hopefully gain appreciation due to the effort and outcome of this portfolio. 
-
-## Tech stack:
-
-* Wireframes - pen, paper, scanner
-* Logo - Canva
-* Website - CSS & HTMl
-* Deployment: Vercel
-* Slidedeck: Google Slides
-* Screenshots: Mozilla Firefox

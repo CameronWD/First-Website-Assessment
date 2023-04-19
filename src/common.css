@@ -16,6 +16,8 @@ body {
     color: white;
 }
 
+/* Styling for header which is on all pages */
+
 header {
     display: flex;
     flex-direction: column;
@@ -43,6 +45,7 @@ header nav a {
     text-decoration: none;
 }
 
+/* Styling for the hero portion of each page. Includes large text and image */
 #hero {
     display: flex;
     flex-direction: column;
@@ -62,6 +65,7 @@ header nav a {
     padding: 0.5rem;
 }
 
+/* Big three referes to highlights attributes */
 #bigthree {
     display: flex;
     flex-direction: column;
@@ -71,6 +75,7 @@ header nav a {
     width: 50%;
 }
 
+/* resume icon on the work page */
 #resumelink img {
   width: 10vw;
   float: right;
@@ -94,6 +99,9 @@ main {
   width:40%;
   border-radius: 10%;
 }
+
+/* styling for main paragraphs */
+
 .mainparagraphs {
     display: flex;
     flex-direction: column;
@@ -103,12 +111,17 @@ main {
     margin-bottom: 2rem;
     line-height: 1.5rem;
 }
+
+/* main image on landing page */
+
 #homepagepicture {
     width: 50%;
     border-radius: 50%;
     float: left;
     padding: 1rem;
 }
+
+/* styling for the work part of the site */
 
 .workimage {
     max-width: 100%;
@@ -135,6 +148,8 @@ main {
 .mywork p {
     margin-bottom: 6rem;
 }
+
+/* styling for the about me section */
 .aboutmeimage {
     display: block;
     width: 45%;
@@ -144,6 +159,9 @@ main {
     border: 5px solid white;
     margin-top: 2rem;
 }
+
+/* styling for the footer including anmation on desktop - used clamp feature */
+
 .social-links {
     margin: 2rem 2rem;
     display: flex;
@@ -166,6 +184,8 @@ footer {
     text-align: center;
     margin-top: 1rem;
 }
+
+/* styling for the blog card section of the website */
 
 .container {
   width: 90%;
