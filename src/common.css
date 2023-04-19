@@ -294,6 +294,9 @@ header nav{
   font-weight: 800;
   font-size: 7vw;
 }
+.blog-card {
+  min-width: 30rem;
+}
 }
 
 @media only screen and (min-width: 1300px){
